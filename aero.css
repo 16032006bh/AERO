@@ -1,0 +1,37 @@
+.navbar{
+    background-color: pink;
+    display: flex;
+    /* justify-content: space-between; */
+    text-decoration: none;
+    list-style:none;
+    
+}
+a:hover{
+    color: red;
+}
+.submit{
+    background-color: pink;
+    display: flex;
+    list-style:none;
+    margin-left: 40px; 
+    display: flex;
+    margin-left: 1000px;
+    /* justify-content: space-between; */
+}
+.aero{
+    background-color: pink;
+    display: flex;
+    /* justify-content: space-between; */
+    text-decoration: none;
+    list-style:none;
+    
+}
+li{
+    margin-left: 40px;
+}
+.btn{
+    height: 30px;
+    width: 70px;
+    margin-left: 50px;
+    display: flex;
+}
